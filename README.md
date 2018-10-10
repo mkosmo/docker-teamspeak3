@@ -3,6 +3,8 @@ docker-teamspeak3
 
 This docker image provides a TeamSpeak3 server that will automatically download the latest stable version at startup. You can also run/upgrade to any other specific version. See the *Versions* section below for more information.
 
+This fork of [andreasheil/docker-teamspeak3](https://github.com/andreasheil/docker-teamspeak3) was ported to use Alpine Linux instead of Debian.
+
 Usage
 -----
 

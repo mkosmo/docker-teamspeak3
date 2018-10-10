@@ -2,7 +2,7 @@
 
 case $TS_VERSION in
   LATEST)
-    export TS_VERSION=`/get-version`
+    export TS_VERSION=`/get-version.sh`
     ;;
 esac
 
